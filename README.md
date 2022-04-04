@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a Physicist by formal training.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEureka)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on changing careers from an shallow dip into SysAdmin work as a DevOps Engineer to Data Science
-- 🌱 I’m currently learning Machine Learning by following the course Machine Learning by Andrew Ng on Coursera
-    and reading Elements of Statistical Learning by Hastie, Tibshirani, and Friedman
-- 👯 I’m looking to collaborate on Data Science projects, DeFi projects, or the intersection thereof
-- 📫 How to reach me: captaineureka@gmail.com
-- ⚡ Fun fact: In my free time I enjoy playing around with Linux window managers such as BSPWM, Awesome, Qtile. Currently my favorite is Qtile!
+- 🔭 I’m currently working as a Machine Learning Engineer
+- 🌱 I’m currently learning Amazon Web Services, Docker Deployments, PyTorch, Tensorflow 
+- 👯 I’m looking to collaborate on Data Science / ML projects, DeFi projects, or the intersection thereof
+- 📫 How to reach me: [captaineureka@gmail.com](captaineureka@gmail.com)
+- ⚡ **Fun fact:** In my free time I enjoy playing around with Linux window managers such as BSPWM, Awesome, Qtile. Currently my favorite is Awesome!
